@@ -1,0 +1,8 @@
+name = "ControlHost"
+uuid = "ca6d2c88-ac5e-11e8-2bf5-4128a136f6f1"
+authors = ["Tamas Gal <tgal@km3net.de>"]
+version = "0.1.0"
+
+[deps]
+Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
