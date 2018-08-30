@@ -3,6 +3,7 @@ module ControlHost
 using Sockets
 using StaticArrays
 
+export @ip_str
 export CHClient, CHTag, CHPrefix, CHMessage, subscribe
 
 function num2byte(x::T) where {T<:Number}
